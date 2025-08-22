@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Dinsanda  
+# <p align="center">👋 Hi, I’m Dinsanda Amajith</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="darajapaksha" /> </p>
+
 
 🎓 **Undergraduate in Computing & Information Systems** – Sabaragamuwa University of Sri Lanka  
 💻 **Aspiring Developer** – passionate about building modern web applications  
@@ -35,3 +38,4 @@
 ---
 
 ✨ _“The best way to predict the future is to invent it.”_ – Alan Kay  
+
