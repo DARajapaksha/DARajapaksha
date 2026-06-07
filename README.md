@@ -57,12 +57,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darajapaksha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=darajapaksha&theme=tokyonight&hide_border=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darajapaksha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
