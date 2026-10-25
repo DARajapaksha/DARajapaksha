@@ -64,51 +64,37 @@ I'm a **Computing & Information Systems undergraduate at Sabaragamuwa University
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💬 [Chatflow](https://github.com/DARajapaksha/chatflow)
-A **real-time chat application** with instant messaging between users.
-
-`React` `Node.js` `Express` `WebSockets`
-
-🔗 [Live Demo](https://chatflow-udqx.onrender.com) · [Source Code](https://github.com/DARajapaksha/chatflow)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 💼 [Jobflow](https://github.com/DARajapaksha/jobflow)
-A **full-stack job board** where employers post roles and candidates browse and apply.
-
-`React` `Node.js` `Express` `PostgreSQL`
-
-🔗 [Source Code](https://github.com/DARajapaksha/jobflow)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧓 [ElderExpert](https://github.com/DARajapaksha/ElderExpert-official)
-An **AI-powered knowledge-sharing platform** connecting retired professionals with companies and students. *(Group project. I built the backend: auth, REST APIs, database integration.)*
-
-`TypeScript` `React` `Node.js` `PostgreSQL` `Firebase`
-
-🔗 [Source Code](https://github.com/DARajapaksha/ElderExpert-official)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 💍 [Wedding Invitation Website](https://github.com/DARajapaksha/Wedding-Invitation-Website)
-A **frontend showcase** with an animated invitation-card opening and a responsive layout.
-
-`HTML` `CSS` `JavaScript`
-
-🔗 [Source Code](https://github.com/DARajapaksha/Wedding-Invitation-Website)
-
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💬 <a href="https://github.com/DARajapaksha/chatflow">Chatflow</a></h3>
+<p>A <b>real-time chat application</b> with instant messaging between users.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express</code> <code>Socket.IO</code></p>
+<p>🔗 <a href="https://chatflow-udqx.onrender.com">Live Demo</a> · <a href="https://github.com/DARajapaksha/chatflow">Source Code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>💼 <a href="https://github.com/DARajapaksha/jobflow">Jobflow</a></h3>
+<p>A <b>full-stack job board</b> where employers post roles and candidates browse and apply.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code></p>
+<p>🔗 <a href="https://github.com/DARajapaksha/jobflow">Source Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧓 <a href="https://github.com/DARajapaksha/ElderExpert-official">ElderExpert</a></h3>
+<p>An <b>AI-powered knowledge-sharing platform</b> connecting retired professionals with companies and students. <i>(Group project. I built the backend: auth, REST APIs, database integration.)</i></p>
+<p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Firebase</code></p>
+<p>🔗 <a href="https://github.com/DARajapaksha/ElderExpert-official">Source Code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>💍 <a href="https://github.com/DARajapaksha/Wedding-Invitation-Website">Wedding Invitation Website</a></h3>
+<p>A <b>frontend showcase</b> with an animated invitation-card opening and a responsive layout.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+<p>🔗 <a href="https://github.com/DARajapaksha/Wedding-Invitation-Website">Source Code</a></p>
+</td>
+</tr>
 </table>
+
+---
 
 ---
 
@@ -118,8 +104,6 @@ A **frontend showcase** with an animated invitation-card opening and a responsiv
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=DARajapaksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARajapaksha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DARajapaksha&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
