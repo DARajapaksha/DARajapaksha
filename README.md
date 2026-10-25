@@ -79,10 +79,10 @@ I'm a **Computing & Information Systems undergraduate at Sabaragamuwa University
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🧓 <a href="https://github.com/DARajapaksha/ElderExpert-official">ElderExpert</a></h3>
+<h3>🧓 <a href="https://github.com/dinalperaketiya/ElderExpert">ElderExpert</a></h3>
 <p>An <b>AI-powered knowledge-sharing platform</b> connecting retired professionals with companies and students. <i>(Group project. I built the backend: auth, REST APIs, database integration.)</i></p>
 <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Firebase</code></p>
-<p>🔗 <a href="https://github.com/DARajapaksha/ElderExpert-official">Source Code</a></p>
+<p>🔗 <a href="https://github.com/dinalperaketiya/ElderExpert">Source Code</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>💍 <a href="https://github.com/DARajapaksha/Wedding-Invitation-Website">Wedding Invitation Website</a></h3>
