@@ -20,7 +20,7 @@
 
 I'm a **Computing & Information Systems undergraduate at Sabaragamuwa University of Sri Lanka**, and I build full-stack web applications from database schema to polished UI.
 
-- 🔭 **Currently building:** [Jobflow](https://github.com/DARajapaksha/jobflow), a job board app, and [Chatflow](https://github.com/DARajapaksha/chatflow), a real-time chat app
+- 🔭 **Currently built & Upgrading:** [Jobflow](https://github.com/DARajapaksha/jobflow), a job board app, and [Chatflow](https://github.com/DARajapaksha/chatflow), a real-time chat app
 - 🎨 **My edge:** a graphic design background (Figma, Illustrator, Photoshop), so I care about how things *look* as much as how they *work*
 - 🏆 **Recognition:** 1st Runner-Up, PIXEL EYE V6.0 (Inter-University Graphic Design) · Top 12 Finalist, GENESIZ'26
 - 💼 **Looking for:** a Full-Stack Developer internship where I can ship real production code
